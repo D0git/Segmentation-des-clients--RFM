@@ -89,9 +89,6 @@ customer-segmentation-rfm/
 │   ├── Vue_d_ensemble.png              ← Dashboard Power BI - Page 1
 │   ├── Analyse_RFM.png                 ← Dashboard Power BI - Page 2
 │   ├── Profils_des_segments.png        ← Dashboard Power BI - Page 3
-│   ├── rfm_distribution.png            ← Histogrammes R, F, M (notebook)
-│   ├── segments_bar.png                ← Répartition par segment (notebook)
-│   └── segments_pie.png                ← Distribution % (notebook)
 │
 ├── 📋 powerbi/
 │   └── dashboard_rfm.pbix              ← Dashboard Power BI (3 pages)
