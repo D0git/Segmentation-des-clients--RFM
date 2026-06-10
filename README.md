@@ -211,7 +211,7 @@ Le dashboard interactif (`powerbi/dashboard_rfm.pbix`) contient **3 pages** avec
 
 ### Page 1 — Vue d'ensemble
 
-![Vue d'ensemble](visuals/Vue_d_ensemble.png)
+![Vue d'ensemble](visuals/Vue d'ensemble.png)
 
 - 4 cartes KPI : CA Total, Nombre de clients, CA Moyen, Score Moyen
 - Graphique en barres : CA par segment
