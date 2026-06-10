@@ -227,7 +227,7 @@ Le dashboard interactif (`powerbi/dashboard_rfm.pbix`) contient **3 pages** avec
 
 ### Page 3 — Profil des segments
 
-![Profil des segments](visuals/Profils_des_segments.png)
+![Profil des segments](visuals/Profil_des_segments.png)
 
 - Tableau comparatif des 7 segments (Nb clients, % clients, moyennes RFM, % CA)
 - Scores moyens R / F / M par segment (graphique en barres)
